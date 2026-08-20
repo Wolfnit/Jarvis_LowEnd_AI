@@ -20,6 +20,11 @@ A simple Windows voice assistant using **Whisper** for speech recognition, an AI
 
 📁 `Jarvis_Bare_Minimum/`
 
+## 🟡 02 — Jarvis: Windows Vision [Incomplete]
+
+An experimental Windows AI assistant with **PyAutoGUI computer control, screen vision, task verification, and basic recovery**.
+
+📁 `Jarvis_Vision_Pyautogui/`
 ---
 
 # 🚀 Project Vision
