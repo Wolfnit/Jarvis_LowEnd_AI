@@ -57,7 +57,20 @@ The idea is:
                           ▼
                        RESULT
 ```
+---
+---
 
+## Credits & Acknowledgements
+
+This project was developed with assistance from several AI tools:
+
+- **ChatGPT** — debugging, architecture discussions, documentation, and development assistance.
+- **Claude** — code review, problem solving, and development assistance.
+- **Gemini** — AI experimentation and development assistance.
+
+The overall project design, implementation, testing, decisions, and direction are my own.
+
+Thanks to these tools for helping me learn, experiment, and build Jarvis. 🐺
 ---
 
 # ❤️ Support the Project
